@@ -1,1 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# C++
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
+*.cache
+
+# Aider (your existing)
 .aider*
+.aider.chat.history.md
+.aider.input.history
+.aider.tags.cache.v4/
+
+# Misc
+FETCH_HEAD
+file.txt
